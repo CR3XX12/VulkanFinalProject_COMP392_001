@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\FinalProject\FinalProject_COMP392_001\VulkanGame\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\FinalProject\FinalProject_COMP392_001\VulkanGame\src\vulkan_app.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\FinalProject\FinalProject_COMP392_001\VulkanGame\src\floor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\FinalProject\FinalProject_COMP392_001\VulkanGame\src\sky.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\FinalProject\FinalProject_COMP392_001\VulkanGame\include\vulkan_app.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\FinalProject\FinalProject_COMP392_001\VulkanGame\include\floor.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\FinalProject\FinalProject_COMP392_001\VulkanGame\include\sky.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\FinalProject\FinalProject_COMP392_001\VulkanGame\include\camera.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\crexa\School\Semester6\COMP392\COMP392_001_CR\FinalProject\FinalProject_COMP392_001\VulkanGame\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{AF7F76E9-5FF3-3B8C-8EE2-2857DB227BB3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C07B15C0-7964-3B67-8EE7-F3098D780527}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

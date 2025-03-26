@@ -1,0 +1,10 @@
+^C:\USERS\CREXA\SCHOOL\SEMESTER6\COMP392\COMP392_001_CR\FINALPROJECT\FINALPROJECT_COMP392_001\VULKANGAME\BUILD\CMAKEFILES\BFDA8ED369921B6196A51BC480252F47\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/crexa/School/Semester6/COMP392/COMP392_001_CR/FinalProject/FinalProject_COMP392_001/VulkanGame -BC:/Users/crexa/School/Semester6/COMP392/COMP392_001_CR/FinalProject/FinalProject_COMP392_001/VulkanGame/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/crexa/School/Semester6/COMP392/COMP392_001_CR/FinalProject/FinalProject_COMP392_001/VulkanGame/build/VulkanGame.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
